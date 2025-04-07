@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --azul: #5f57ff;
+    --amarelo: #fff957;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--azul);
+    color: var(--amarelo);
 }
 
 
@@ -63,7 +63,7 @@ body {
 
 .botao.ativo {
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--azul);
+    border-bottom: 4px solid var(--amarelo);
 }
 
 .abas-textos {
@@ -87,7 +87,7 @@ body {
 
 .aba-conteudo-titulo-secundario {
     text-align: center;
-    color: var(--azul);
+    color: var(--amarelo);
     text-transform: uppercase;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 
 .contador-digito-texto {
-    color: var(--azul);
+    color: var(--amarelo);
     font-size: 20px;
     margin: 0;
 
